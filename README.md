@@ -1,1 +1,1 @@
-# Problem_1299-Replace_Elements_with_Greatest_Element_on_Right_Side
+# Problem 1299: Replace Elements with Greatest Element on Right Side
